@@ -39,7 +39,7 @@ function Navbar() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/">
+                <Link to="/signup">
                   <i
                     className="fas fa-plus "
                     style={{
@@ -51,7 +51,7 @@ function Navbar() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/">
+                <Link to="/login">
                   <i
                     className="fas fa-bell"
                     style={{
